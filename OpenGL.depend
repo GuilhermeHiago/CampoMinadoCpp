@@ -1,0 +1,567 @@
+# depslib dependency file v1.0
+1597749732 source:d:\pinho\basico2d\programabasicoopengl.cpp
+	<iostream>
+	<cmath>
+	<ctime>
+	<windows.h>
+	<glut.h>
+	<sys/time.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Temporizador.h"
+
+1298986600 d:\pinho\basico2d\gl\glut.h
+	"freeglut.h"
+
+1298986600 d:\pinho\basico2d\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1298986600 d:\pinho\basico2d\gl\freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1298986600 d:\pinho\basico2d\gl\freeglut_ext.h
+
+1584988812 d:\pinho\basico2d\temporizador.h
+	<iostream>
+	<windows.h>
+	<sys/time.h>
+
+1584988348 source:d:\pinho\basico2d\temporizador.cpp
+	"Temporizador.h"
+
+1597787603 source:d:\pinho\poligonos\exibepoligonos.cpp
+	<iostream>
+	<cmath>
+	<ctime>
+	<windows.h>
+	<glut.h>
+	<sys/time.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Ponto.h"
+	"Poligono.h"
+	"Temporizador.h"
+
+1298986600 d:\pinho\poligonos\gl\glut.h
+	"freeglut.h"
+
+1298986600 d:\pinho\poligonos\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1298986600 d:\pinho\poligonos\gl\freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1298986600 d:\pinho\poligonos\gl\freeglut_ext.h
+
+1597783594 d:\pinho\poligonos\ponto.h
+	<iostream>
+
+1597787214 d:\pinho\poligonos\poligono.h
+	<iostream>
+	<windows.h>
+	<glut.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Ponto.h"
+	<vector>
+
+1584988812 d:\pinho\poligonos\temporizador.h
+	<iostream>
+	<windows.h>
+	<sys/time.h>
+
+1597787245 source:d:\pinho\poligonos\poligono.cpp
+	"Poligono.h"
+
+1597784052 source:d:\pinho\poligonos\ponto.cpp
+	"Ponto.h"
+
+1584988348 source:d:\pinho\poligonos\temporizador.cpp
+	"Temporizador.h"
+
+1615418878 source:d:\pinho\csg2d\exibepoligonoscsg.cpp
+	<iostream>
+	<cmath>
+	<ctime>
+	<fstream>
+	<windows.h>
+	<glut.h>
+	<sys/time.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Ponto.h"
+	"Poligono.h"
+	"Temporizador.h"
+
+1298986600 d:\pinho\csg2d\gl\glut.h
+	"freeglut.h"
+
+1298986600 d:\pinho\csg2d\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1298986600 d:\pinho\csg2d\gl\freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1298986600 d:\pinho\csg2d\gl\freeglut_ext.h
+
+1615414730 d:\pinho\csg2d\ponto.h
+	<iostream>
+
+1615413100 d:\pinho\csg2d\poligono.h
+	<iostream>
+	<windows.h>
+	<glut.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Ponto.h"
+	<vector>
+
+1584988812 d:\pinho\csg2d\temporizador.h
+	<iostream>
+	<windows.h>
+	<sys/time.h>
+
+1615412538 source:d:\pinho\csg2d\poligono.cpp
+	"Poligono.h"
+
+1615413732 source:d:\pinho\csg2d\ponto.cpp
+	"Ponto.h"
+
+1584988348 source:d:\pinho\csg2d\temporizador.cpp
+	"Temporizador.h"
+
+1620824776 source:d:\arq1\documentos\exfac\5sem_2121\compgraf\csg2d\exibepoligonoscsg.cpp
+	<iostream>
+	<cmath>
+	<ctime>
+	<fstream>
+	<windows.h>
+	<glut.h>
+	<sys/time.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Ponto.h"
+	"Poligono.h"
+	"Temporizador.h"
+
+1298986600 d:\arq1\documentos\exfac\5sem_2121\compgraf\csg2d\gl\glut.h
+	"freeglut.h"
+
+1298986600 d:\arq1\documentos\exfac\5sem_2121\compgraf\csg2d\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1298986600 d:\arq1\documentos\exfac\5sem_2121\compgraf\csg2d\gl\freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1298986600 d:\arq1\documentos\exfac\5sem_2121\compgraf\csg2d\gl\freeglut_ext.h
+
+1615414730 d:\arq1\documentos\exfac\5sem_2121\compgraf\csg2d\ponto.h
+	<iostream>
+
+1616709938 d:\arq1\documentos\exfac\5sem_2121\compgraf\csg2d\poligono.h
+	<iostream>
+	<windows.h>
+	<glut.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Ponto.h"
+	<vector>
+
+1584988812 d:\arq1\documentos\exfac\5sem_2121\compgraf\csg2d\temporizador.h
+	<iostream>
+	<windows.h>
+	<sys/time.h>
+
+1620821071 source:d:\arq1\documentos\exfac\5sem_2121\compgraf\csg2d\poligono.cpp
+	"Poligono.h"
+
+1615413732 source:d:\arq1\documentos\exfac\5sem_2121\compgraf\csg2d\ponto.cpp
+	"Ponto.h"
+
+1584988348 source:d:\arq1\documentos\exfac\5sem_2121\compgraf\csg2d\temporizador.cpp
+	"Temporizador.h"
+
+1620821071 source:d:\arq1\documentos\exfac\5sem_2121\compgraf\t2_compgraf\poligono.cpp
+	"Poligono.h"
+
+1616709938 d:\arq1\documentos\exfac\5sem_2121\compgraf\t2_compgraf\poligono.h
+	<iostream>
+	<windows.h>
+	<glut.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Ponto.h"
+	<vector>
+
+1298986600 d:\arq1\documentos\exfac\5sem_2121\compgraf\t2_compgraf\gl\glut.h
+	"freeglut.h"
+
+1298986600 d:\arq1\documentos\exfac\5sem_2121\compgraf\t2_compgraf\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1298986600 d:\arq1\documentos\exfac\5sem_2121\compgraf\t2_compgraf\gl\freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1298986600 d:\arq1\documentos\exfac\5sem_2121\compgraf\t2_compgraf\gl\freeglut_ext.h
+
+1621693910 d:\arq1\documentos\exfac\5sem_2121\compgraf\t2_compgraf\ponto.h
+	<iostream>
+
+1621693925 source:d:\arq1\documentos\exfac\5sem_2121\compgraf\t2_compgraf\ponto.cpp
+	"Ponto.h"
+
+1584988348 source:d:\arq1\documentos\exfac\5sem_2121\compgraf\t2_compgraf\temporizador.cpp
+	"Temporizador.h"
+
+1584988812 d:\arq1\documentos\exfac\5sem_2121\compgraf\t2_compgraf\temporizador.h
+	<iostream>
+	<windows.h>
+	<sys/time.h>
+
+1622502723 source:d:\arq1\documentos\exfac\5sem_2121\compgraf\t2_compgraf\exibepoligonoscsg.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<vector>
+	<windows.h>
+	<glut.h>
+	<sys/time.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Ponto.h"
+	"Poligono.h"
+	"Shape.h"
+	"ShapeQuad.h"
+	"ShapePoli.h"
+	"Character.h"
+	"Temporizador.h"
+
+1621097150 source:d:\arq1\documentos\exfac\5sem_2121\compgraf\t2_compgraf\shape.cpp
+	"Shape.h"
+	"Ponto.h"
+	<vector>
+
+1622498437 d:\arq1\documentos\exfac\5sem_2121\compgraf\t2_compgraf\shape.h
+	<windows.h>
+	<glut.h>
+	<sys/time.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Ponto.h"
+	"Poligono.h"
+
+1621697504 source:d:\arq1\documentos\exfac\5sem_2121\compgraf\t2_compgraf\shapequad.cpp
+	"ShapeQuad.h"
+	"Ponto.h"
+	<vector>
+	<math.h>
+	<iostream>
+
+1621545736 d:\arq1\documentos\exfac\5sem_2121\compgraf\t2_compgraf\shapequad.h
+	<windows.h>
+	<glut.h>
+	<sys/time.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Shape.h"
+	"Ponto.h"
+	<vector>
+
+1622500071 source:d:\arq1\documentos\exfac\5sem_2121\compgraf\t2_compgraf\shapepoli.cpp
+	"ShapePoli.h"
+	"Ponto.h"
+	"Poligono.h"
+	<vector>
+	<math.h>
+
+1622493919 d:\arq1\documentos\exfac\5sem_2121\compgraf\t2_compgraf\shapepoli.h
+	<windows.h>
+	<glut.h>
+	<sys/time.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Shape.h"
+	"Ponto.h"
+	"Poligono.h"
+	<vector>
+
+1622497127 source:d:\arq1\documentos\exfac\5sem_2121\compgraf\t2_compgraf\character.cpp
+	<windows.h>
+	<glut.h>
+	<sys/time.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Shape.h"
+	"Ponto.h"
+	<vector>
+	"Character.h"
+
+1622340516 d:\arq1\documentos\exfac\5sem_2121\compgraf\t2_compgraf\character.h
+	<windows.h>
+	<glut.h>
+	<sys/time.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Shape.h"
+	"Ponto.h"
+	<vector>
+
+1622497127 source:d:\arq1\documentos\exfac\5sem_2121\compgraf\guilhermehiagocostasantos_t2\character.cpp
+	<windows.h>
+	<glut.h>
+	<sys/time.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Shape.h"
+	"Ponto.h"
+	<vector>
+	"Character.h"
+
+1298986600 d:\arq1\documentos\exfac\5sem_2121\compgraf\guilhermehiagocostasantos_t2\gl\glut.h
+	"freeglut.h"
+
+1298986600 d:\arq1\documentos\exfac\5sem_2121\compgraf\guilhermehiagocostasantos_t2\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1298986600 d:\arq1\documentos\exfac\5sem_2121\compgraf\guilhermehiagocostasantos_t2\gl\freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1298986600 d:\arq1\documentos\exfac\5sem_2121\compgraf\guilhermehiagocostasantos_t2\gl\freeglut_ext.h
+
+1622498437 d:\arq1\documentos\exfac\5sem_2121\compgraf\guilhermehiagocostasantos_t2\shape.h
+	<windows.h>
+	<glut.h>
+	<sys/time.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Ponto.h"
+	"Poligono.h"
+
+1621693910 d:\arq1\documentos\exfac\5sem_2121\compgraf\guilhermehiagocostasantos_t2\ponto.h
+	<iostream>
+
+1616709938 d:\arq1\documentos\exfac\5sem_2121\compgraf\guilhermehiagocostasantos_t2\poligono.h
+	<iostream>
+	<windows.h>
+	<glut.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Ponto.h"
+	<vector>
+
+1622340516 d:\arq1\documentos\exfac\5sem_2121\compgraf\guilhermehiagocostasantos_t2\character.h
+	<windows.h>
+	<glut.h>
+	<sys/time.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Shape.h"
+	"Ponto.h"
+	<vector>
+
+1620821071 source:d:\arq1\documentos\exfac\5sem_2121\compgraf\guilhermehiagocostasantos_t2\poligono.cpp
+	"Poligono.h"
+
+1621693925 source:d:\arq1\documentos\exfac\5sem_2121\compgraf\guilhermehiagocostasantos_t2\ponto.cpp
+	"Ponto.h"
+
+1621097150 source:d:\arq1\documentos\exfac\5sem_2121\compgraf\guilhermehiagocostasantos_t2\shape.cpp
+	"Shape.h"
+	"Ponto.h"
+	<vector>
+
+1622500071 source:d:\arq1\documentos\exfac\5sem_2121\compgraf\guilhermehiagocostasantos_t2\shapepoli.cpp
+	"ShapePoli.h"
+	"Ponto.h"
+	"Poligono.h"
+	<vector>
+	<math.h>
+
+1622493919 d:\arq1\documentos\exfac\5sem_2121\compgraf\guilhermehiagocostasantos_t2\shapepoli.h
+	<windows.h>
+	<glut.h>
+	<sys/time.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Shape.h"
+	"Ponto.h"
+	"Poligono.h"
+	<vector>
+
+1621697504 source:d:\arq1\documentos\exfac\5sem_2121\compgraf\guilhermehiagocostasantos_t2\shapequad.cpp
+	"ShapeQuad.h"
+	"Ponto.h"
+	<vector>
+	<math.h>
+	<iostream>
+
+1621545736 d:\arq1\documentos\exfac\5sem_2121\compgraf\guilhermehiagocostasantos_t2\shapequad.h
+	<windows.h>
+	<glut.h>
+	<sys/time.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Shape.h"
+	"Ponto.h"
+	<vector>
+
+1584988348 source:d:\arq1\documentos\exfac\5sem_2121\compgraf\guilhermehiagocostasantos_t2\temporizador.cpp
+	"Temporizador.h"
+
+1584988812 d:\arq1\documentos\exfac\5sem_2121\compgraf\guilhermehiagocostasantos_t2\temporizador.h
+	<iostream>
+	<windows.h>
+	<sys/time.h>
+
+1637203731 source:d:\arq1\documentos\exfac\5sem_2121\compgraf\guilhermehiagocostasantos_t2\exibepoligonoscsg.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<vector>
+	<windows.h>
+	<glut.h>
+	<sys/time.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Ponto.h"
+	"Poligono.h"
+	"Shape.h"
+	"ShapeQuad.h"
+	"ShapePoli.h"
+	"Character.h"
+	"Temporizador.h"
+
+1637588653 source:d:\arq1\documentos\prog\desafiopratico_guilhermesantos\manifesto games\guilhermehiagocostasantos_t2_campominado\src\poligono.cpp
+	"Poligono.h"
+
+1637472176 d:\arq1\documentos\prog\desafiopratico_guilhermesantos\manifesto games\guilhermehiagocostasantos_t2_campominado\include\poligono.h
+	<iostream>
+	<windows.h>
+	<glut.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Ponto.h"
+	<vector>
+
+1298986600 d:\arq1\documentos\prog\desafiopratico_guilhermesantos\manifesto games\guilhermehiagocostasantos_t2_campominado\gl\glut.h
+	"freeglut.h"
+
+1298986600 d:\arq1\documentos\prog\desafiopratico_guilhermesantos\manifesto games\guilhermehiagocostasantos_t2_campominado\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1298986600 d:\arq1\documentos\prog\desafiopratico_guilhermesantos\manifesto games\guilhermehiagocostasantos_t2_campominado\gl\freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1298986600 d:\arq1\documentos\prog\desafiopratico_guilhermesantos\manifesto games\guilhermehiagocostasantos_t2_campominado\gl\freeglut_ext.h
+
+1637471835 d:\arq1\documentos\prog\desafiopratico_guilhermesantos\manifesto games\guilhermehiagocostasantos_t2_campominado\include\ponto.h
+	<iostream>
+
+1637471843 source:d:\arq1\documentos\prog\desafiopratico_guilhermesantos\manifesto games\guilhermehiagocostasantos_t2_campominado\src\ponto.cpp
+	"Ponto.h"
+
+1637588651 source:d:\arq1\documentos\prog\desafiopratico_guilhermesantos\manifesto games\guilhermehiagocostasantos_t2_campominado\src\celula.cpp
+	"Celula.h"
+
+1637472233 d:\arq1\documentos\prog\desafiopratico_guilhermesantos\manifesto games\guilhermehiagocostasantos_t2_campominado\include\celula.h
+
+1637610042 source:d:\arq1\documentos\prog\desafiopratico_guilhermesantos\manifesto games\guilhermehiagocostasantos_t2_campominado\src\mainmenu.cpp
+	"MainMenu.h"
+	"Ponto.h"
+	<string>
+
+1637603516 d:\arq1\documentos\prog\desafiopratico_guilhermesantos\manifesto games\guilhermehiagocostasantos_t2_campominado\include\mainmenu.h
+	"Ponto.h"
+	<GL/gl.h>
+	<GL/glu.h>
+	<windows.h>
+	<glut.h>
+	<sys/time.h>
+	<GLUT/glut.h>
+	<glut.h>
+
+1637472317 source:d:\arq1\documentos\prog\desafiopratico_guilhermesantos\manifesto games\guilhermehiagocostasantos_t2_campominado\src\temporizador.cpp
+	"Temporizador.h"
+
+1637472340 d:\arq1\documentos\prog\desafiopratico_guilhermesantos\manifesto games\guilhermehiagocostasantos_t2_campominado\include\temporizador.h
+	<iostream>
+	<windows.h>
+	<sys/time.h>
+
+1637607065 source:d:\arq1\documentos\prog\desafiopratico_guilhermesantos\manifesto games\guilhermehiagocostasantos_t2_campominado\main.cpp
+	<iostream>
+	<cmath>
+	<math.h>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<vector>
+	<algorithm>
+	<windows.h>
+	<glut.h>
+	<sys/time.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Ponto.h"
+	"Poligono.h"
+	"Celula.h"
+	"MainMenu.h"
+	"Game.h"
+	"EndScreen.h"
+	"Temporizador.h"
+
+1637609876 source:d:\arq1\documentos\prog\desafiopratico_guilhermesantos\manifesto games\guilhermehiagocostasantos_t2_campominado\src\game.cpp
+	"Game.h"
+
+1637604024 d:\arq1\documentos\prog\desafiopratico_guilhermesantos\manifesto games\guilhermehiagocostasantos_t2_campominado\include\game.h
+	"Ponto.h"
+	"Poligono.h"
+	"Celula.h"
+	<iostream>
+	<cmath>
+	<math.h>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<vector>
+	<algorithm>
+
+1637610114 source:d:\arq1\documentos\prog\desafiopratico_guilhermesantos\manifesto games\guilhermehiagocostasantos_t2_campominado\src\endscreen.cpp
+	"EndScreen.h"
+	"Game.h"
+
+1637606930 d:\arq1\documentos\prog\desafiopratico_guilhermesantos\manifesto games\guilhermehiagocostasantos_t2_campominado\include\endscreen.h
+	"Ponto.h"
+	<GL/gl.h>
+	<GL/glu.h>
+	<windows.h>
+	<glut.h>
+	<sys/time.h>
+	<GLUT/glut.h>
+	<glut.h>
+
